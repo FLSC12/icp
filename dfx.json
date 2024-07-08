@@ -13,7 +13,7 @@
     },
     "from_binary": {
       "type": "rust",
-      "package": "from_binary",
+      "package": "from_binery",
       "candid": "src/from_binary/interface.did"
     },
     "from_divided_hex_str": {
